@@ -175,7 +175,7 @@ Confidence: 97.19%
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Debodip-cloud/amazon-review-ai-dashboard.git
+git clone https://github.com/AtimSasmal/Amazon Review AI-Dashboard.git
 cd amazon-review-ai-dashboard
 ```
 
@@ -222,7 +222,7 @@ amazon-review-ai-dashboard/
 
 ## Author
 
-**Debodip Chowdhury**
+**Atim Kumar Sasmal**
 
 Data Scientist | Machine Learning Engineer | Business Intelligence Enthusiast
 
